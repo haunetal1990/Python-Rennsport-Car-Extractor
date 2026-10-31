@@ -47,4 +47,5 @@ Result: `Export\BMW_M4_GT3.blend` + textures.
 ---
 
 ## Topics
-https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/
+https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/<br />
+https://www.overtake.gg/downloads/python-rennsport-car-extractor.88206/
