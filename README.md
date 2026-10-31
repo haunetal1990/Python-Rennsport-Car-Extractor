@@ -1,4 +1,6 @@
-# Python-Rennsport-Car-Extractor
+![alt text](https://i.postimg.cc/PxK9gGQC/samplebmwrennsport.jpg "Screenshot Blender")
+
+# Python Rennsport Car Extractor
 
 Extract cars from **Rennsport** and get ready-to-use **Blender** files – meshes, materials, textures and all parts in place.
 
