@@ -38,6 +38,10 @@ Result: `Export\BMW_M4_GT3.blend` + textures.
 
 `--list` shows all cars · `--pack` packs textures into the .blend · `--damage` adds damage parts
 
+## Physics for rFactor 2
+
+Want the car physics too? See [Python Rennsport Physics rF2 Converter](https://github.com/haunetal1990/python-rennsport-physics-rf2-converter) – converts Rennsport physics into rFactor 2 files (`.hdv`, engine, gears, tyres …).
+
 ## Notes
 
 - AES key, Oodle DLL and game files are **not** included.
