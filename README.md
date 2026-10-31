@@ -43,3 +43,8 @@ Result: `Export\BMW_M4_GT3.blend` + textures.
 - AES key, Oodle DLL and game files are **not** included.
 - Praga Bohema is unfinished in the game and can't be fully assembled.
 - Not affiliated with the developers of Rennsport. Use only with a legally owned copy of the game.
+
+---
+
+## Topics
+https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/
