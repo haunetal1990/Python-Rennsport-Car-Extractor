@@ -31,7 +31,7 @@ On the first start you are asked for the **AES key**. It is saved to `rennsport_
 python rennsport_blender.py BMW_M4_GT3 -o Export
 ```
 
-On the first start you are asked for the unpacked `Content` folder and `blender.exe` (saved to `rennsport_blender.ini`).
+On the first start you are asked for the unpacked `Content` folder and `blender.exe` (saved to `rennsport_blender.ini`).<br />
 Result: `Export\BMW_M4_GT3.blend` + textures.
 
 `--list` shows all cars · `--pack` packs textures into the .blend · `--damage` adds damage parts
