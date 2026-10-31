@@ -16,7 +16,6 @@ Extract cars from **Rennsport** and get ready-to-use **Blender** files – meshe
 - Windows, Python 3.8+ (no extra packages needed)
 - Blender 4.0
 - The game's **AES key**
-- `oo2core_*_win64.dll` (Oodle – found automatically in many installed Steam games)
 
 ## 1. Unpack the game
 
