@@ -1,0 +1,27 @@
+# Local settings (contain the AES key / local paths)
+*.ini
+
+# Game files and extracted content
+*.pak
+*.utoc
+*.ucas
+*_extracted/
+*.uasset
+*.uexp
+*.ubulk
+*.uptnl
+
+# Proprietary libraries
+*.dll
+*.so
+
+# Blender output
+*.blend
+*.blend1
+*_textures/
+Blender_Export/
+Export/
+
+# Python
+__pycache__/
+*.pyc
